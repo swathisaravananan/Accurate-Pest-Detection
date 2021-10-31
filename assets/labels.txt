@@ -1,0 +1,5 @@
+0 yello stem borer
+1 green leaf hopper
+2 leaf folder
+3 brown plant hopper
+4 Rice hispa
