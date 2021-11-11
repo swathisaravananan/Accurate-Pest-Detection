@@ -18,4 +18,3 @@ samples, guidance on mobile development, and a full API reference.
 DEMO VIDEOS OF THE MOBILE APPLICATION:
 
 - [PEST_CONTROLLER_APP_DEMO](https://drive.google.com/drive/folders/1ElEgGOBm8TQzSfTvOmIQJY77KKqiWHkN?usp=sharing)
-- [TENSORFLOW_COLAB_TRAINING_AND_CONVERSION TO TFLITE_DEMO](https://colab.research.google.com/drive/14PoDMcbFM5iFRgoiig07fWn4_YwhX-_v?usp=sharing#scrollTo=bI8__uNS8-ns)
