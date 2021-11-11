@@ -27,11 +27,19 @@ The proposed system should have the following functions:
 
 - **DEMO VIDEO:**
 
-. -[PEST_CONTROLLER_APP_DEMO]()
+. -[PEST_CONTROLLER_APP_DEMO](https://drive.google.com/file/d/1nanDFKT9cplCQBEBXKAX1PdFoPBtY1Ap/view?usp=sharing)
 
 PRESENTATION LINK:
 
 . -[PRESENTATION_LINK](https://docs.google.com/presentation/d/1urmNG-o4WYp9pegM-LadK7NdNcTtr6w5TnDo1pb8q2E/edit#slide=id.gf81abc8e82_5_0)
+
+SRS:
+
+. -[SRS](https://drive.google.com/file/d/1nanDFKT9cplCQBEBXKAX1PdFoPBtY1Ap/view?usp=sharing)
+
+SPD:
+
+. -[SPD](https://drive.google.com/file/d/16dCSfzeaXilr7UqQijgf7_jbvuKvsY_0/view?usp=sharing)
 
 **FILE DESCRIPTION**
 
