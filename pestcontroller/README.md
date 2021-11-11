@@ -24,7 +24,8 @@ The proposed system should have the following functions:
 - a. TensorFlow
 - b. Flutter for application
 - c. Firebase
-**DEMO VIDEO:**
+
+- **DEMO VIDEO:**
 
 . -PEST_CONTROLLER_APP_DEMO
 
