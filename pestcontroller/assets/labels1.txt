@@ -1,0 +1,4 @@
+0 yellow stem borer 
+1 brown plant hopper
+2 green leaf hopper
+3 leaf folder
