@@ -58,23 +58,23 @@ The proposed system should have the following functions:
 
 **lib** : This is the most important folder in the project, where the majority of the dart code is written. The lib folder contains the main. dart file by default, which serves as the application's entry point. This configuration, however, is modifiable. Our lib consists of:
 
-**Login** : all login related dart files.
+**Login** : All login related dart files.
 
-**Signup**: all signup related dart files.
+**Signup**: All signup related dart files.
 
-**Welcome**: all Welcome page related dart files.
+**Welcome**: All Welcome page related dart files.
 
-**Graph**: the graphical analysis dart files that are integrated with firestore.
+**Graph**: The graphical analysis dart files that are integrated with firestore.
 
-**Components**: all components such as button and essential UI features related dart files.
+**Components**: All components such as button and essential UI features related dart files.
 
-**imagesize.dart**: intergrating firebase data to flutter app.
+**imagesize.dart**: Intergrating firebase data to flutter app.
 
-**main.dart**: the main function file of the application.
+**main.dart**: The main function file of the application.
 
-**tfpractice.dart** : intergrating tensorflow trained model , drawing detection boxes, into our flutter app.
+**tfpractice.dart** : Intergrating tensorflow trained model , drawing detection boxes, into our flutter app.
 
-**viewDetails.dart** : displaying all the details , such as pestname , region , count of pest , inference and solution of each detected pest in the app.
+**viewDetails.dart** : Displaying all the details , such as pestname , region , count of pest , inference and solution of each detected pest in the app.
 
 **Accurate_pest_detection.ipynb** : This is the google collab file where the entire object detection and training of model take place , downloading the Mobilenet SSD v2 Model for our project , cloning our dataset that we annotated in roboflow , running inference , converting tf model to tflite model.
 
