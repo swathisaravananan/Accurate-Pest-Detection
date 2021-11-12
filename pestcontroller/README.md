@@ -1,10 +1,10 @@
-**Accurate-Pest-Detection 🐞**
+# Accurate-Pest-Detection 🐞
 
- **Outline of Project** :
+## Outline of Project:
 
 The Accurate pest detector is an mobile application that identifies pest in large areas of farm through image processsing and provides class of the identified pest ,the count and also the solution to it thereby allowing the farmer to activate pest control in specific areas of their fields that are densely populated with pests, saving the cost and resources to administer the pesticide to the entire field. Integrated pest management relies on the accuracy of pest population monitoring techniques. At the farm level, human operators typically must perform periodical surveys of the traps disseminated through the field. This is a labor-, time- and cost-consuming activity, in particular for large plantations or large forestry areas, so it would be of great advantage to have an affordable system capable of doing this task automatically in an accurate and a more efficient way.The proposed system will bring higher scalability, being able to deploy in small monitoring areas (greenhouses) as in large plantation extensions.
 
-**Product Functions**
+## Product Functions:
 
 The proposed system should have the following functions:
 
@@ -20,7 +20,7 @@ The proposed system should have the following functions:
 **Measures to control infestation**
 - a. Possible solution: Depending on the severity of the infestation, will tell the user whether pesticide is required at this stage or not. If required, will provide the steps and instructions to execute the measures.
 
-**Software Tools Used:🛠️**
+## Software Tools Used:🛠️
 
 - a. TensorFlow
 - b. Flutter for application
@@ -48,7 +48,7 @@ The proposed system should have the following functions:
 
 . -[SPD](https://drive.google.com/file/d/16dCSfzeaXilr7UqQijgf7_jbvuKvsY_0/view?usp=sharing)
 
-**FILE DESCRIPTION 📁**
+## FILE DESCRIPTION 📁:
 
 **Android** - The Android folder contains the files and folders required for the application to run on an Android operating system. These files and folders are generated automatically when the flutter project is created. It is recommended that you consider leaving these folders and files alone.
 
