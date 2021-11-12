@@ -32,11 +32,11 @@ The proposed system should have the following functions:
 - c.Android Emulator
   
 
-***DEMO VIDEO:***🔗
+*DEMO VIDEO:* 🔗
 
 . -[PEST_CONTROLLER_APP_DEMO](https://drive.google.com/drive/folders/1ElEgGOBm8TQzSfTvOmIQJY77KKqiWHkN?usp=sharing)
 
-***PRESENTATION LINK:***🔗
+*PRESENTATION LINK:* 🔗
 
 . -[PRESENTATION_LINK](https://docs.google.com/presentation/d/1urmNG-o4WYp9pegM-LadK7NdNcTtr6w5TnDo1pb8q2E/edit#slide=id.gf81abc8e82_5_0)
 
