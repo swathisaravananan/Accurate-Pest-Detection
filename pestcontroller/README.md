@@ -1,4 +1,4 @@
-**Accurate-Pest-Detection**
+**Accurate-Pest-Detection 🐞**
 
 - **Outline of Project** :
 
@@ -20,10 +20,17 @@ The proposed system should have the following functions:
 - **Measures to control infestation**
 - a. Possible solution: Depending on the severity of the infestation, will tell the user whether pesticide is required at this stage or not. If required, will provide the steps and instructions to execute the measures.
 
-- **1.Technology constraint:**
+- **Software Tools Used:🛠️**
+
 - a. TensorFlow
 - b. Flutter for application
 - c. Firebase
+
+- **IDEs Used**:
+- a.Google Colab (For training the Mobile net architechture)
+- b.Visual Studio 
+- c.Android Emulator
+  
 
 - **DEMO VIDEO:**
 
@@ -41,7 +48,7 @@ The proposed system should have the following functions:
 
 . -[SPD](https://drive.google.com/file/d/16dCSfzeaXilr7UqQijgf7_jbvuKvsY_0/view?usp=sharing)
 
-**FILE DESCRIPTION**
+**FILE DESCRIPTION 📁**
 
 **Android** - The Android folder contains the files and folders required for the application to run on an Android operating system. These files and folders are generated automatically when the flutter project is created. It is recommended that you consider leaving these folders and files alone.
 
