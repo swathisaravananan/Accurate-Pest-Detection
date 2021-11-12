@@ -1,6 +1,6 @@
 **Accurate-Pest-Detection 🐞**
 
-- **Outline of Project** :
+ **Outline of Project** :
 
 The low-power image sensor is an wireless autonomous monitoring system that is based on a low-cost image sensor and allows the farmer to activate pest control in specific areas of their fields that are densely populated with pests, thereby saving the cost and resources to administer the pesticide to the entire field. Integrated pest management relies on the accuracy of pest population monitoring techniques. At the farm level, human operators typically must perform periodical surveys of the traps disseminated through the field. This is a labor-, time- and cost-consuming activity, in particular for large plantations or large forestry areas, so it would be of great advantage to have an affordable system capable of doing this task automatically in an accurate and a more efficient way.The proposed system will bring higher scalability, being able to deploy in small monitoring areas (greenhouses) as in large plantation extensions.
 
