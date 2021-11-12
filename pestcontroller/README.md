@@ -4,47 +4,47 @@
 
 The low-power image sensor is an wireless autonomous monitoring system that is based on a low-cost image sensor and allows the farmer to activate pest control in specific areas of their fields that are densely populated with pests, thereby saving the cost and resources to administer the pesticide to the entire field. Integrated pest management relies on the accuracy of pest population monitoring techniques. At the farm level, human operators typically must perform periodical surveys of the traps disseminated through the field. This is a labor-, time- and cost-consuming activity, in particular for large plantations or large forestry areas, so it would be of great advantage to have an affordable system capable of doing this task automatically in an accurate and a more efficient way.The proposed system will bring higher scalability, being able to deploy in small monitoring areas (greenhouses) as in large plantation extensions.
 
-- **Product Functions**
+**Product Functions**
 
 The proposed system should have the following functions:
 
-- **Pest Image Classification**
+**Pest Image Classification**
 - a. Labeling of Image: Shows the names of each pest identified.
 - b. Percentage: Shows the probability percentage of the identified being the pest label.
-- **Pest count**
+**Pest count**
 - a. Count number: Allows user to see the number of pests from each classification
-- **Analysis :**
+**Analysis :**
 - Pest vs Month : A graphical analysis of pest on x-axis and month on y-axis.
 - Pest vs Count : A graphical analysis of pest on x-axis and count on y-axis.
 
-- **Measures to control infestation**
+**Measures to control infestation**
 - a. Possible solution: Depending on the severity of the infestation, will tell the user whether pesticide is required at this stage or not. If required, will provide the steps and instructions to execute the measures.
 
-- **Software Tools Used:🛠️**
+**Software Tools Used:🛠️**
 
 - a. TensorFlow
 - b. Flutter for application
 - c. Firebase
 
-- **IDEs Used**:
+**IDEs Used**:
 - a.Google Colab (For training the Mobile net architechture)
 - b.Visual Studio 
 - c.Android Emulator
   
 
-- **DEMO VIDEO:**
+**DEMO VIDEO:**
 
 . -[PEST_CONTROLLER_APP_DEMO](https://drive.google.com/drive/folders/1ElEgGOBm8TQzSfTvOmIQJY77KKqiWHkN?usp=sharing)
 
-- **PRESENTATION LINK:**
+**PRESENTATION LINK:**
 
 . -[PRESENTATION_LINK](https://docs.google.com/presentation/d/1urmNG-o4WYp9pegM-LadK7NdNcTtr6w5TnDo1pb8q2E/edit#slide=id.gf81abc8e82_5_0)
 
--  **SRS:**
+**SRS:**
 
 . -[SRS](https://drive.google.com/file/d/1nanDFKT9cplCQBEBXKAX1PdFoPBtY1Ap/view?usp=sharing)
 
-- **SPD:**
+**SPD:**
 
 . -[SPD](https://drive.google.com/file/d/16dCSfzeaXilr7UqQijgf7_jbvuKvsY_0/view?usp=sharing)
 
