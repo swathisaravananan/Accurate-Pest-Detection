@@ -44,9 +44,9 @@ The proposed system should have the following functions:
 
 . -[SRS](https://drive.google.com/file/d/1nanDFKT9cplCQBEBXKAX1PdFoPBtY1Ap/view?usp=sharing)
 
-**SPD:**
+**SDD:**
 
-. -[SPD](https://drive.google.com/file/d/16dCSfzeaXilr7UqQijgf7_jbvuKvsY_0/view?usp=sharing)
+. -[SDD](https://drive.google.com/file/d/16dCSfzeaXilr7UqQijgf7_jbvuKvsY_0/view?usp=sharing)
 
 ## FILE DESCRIPTION 📁:
 
